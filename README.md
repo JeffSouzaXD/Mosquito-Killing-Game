@@ -1,5 +1,11 @@
 ## Overview
 Welcome to Mosquito Slayer, a fun and challenging game created using HTML, CSS, Bootstrap, and JavaScript. Your objective is to eliminate as many mosquitoes as possible within a set time limit, all while avoiding losing all three lives. The game offers three different difficulty levels to test your skills and was designed to showcase my JavaScript abilities while expanding my knowledge in game development.
+<div style = "display: inline_block"></br>
+    <img align_item ="center" alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align_item ="center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align_item ="center" alt = "CSS3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+    <img align_item = "center" alt = "Bootstrap" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</div></br>
 
 ## Features
 Engage in exciting mosquito-swatting action.
@@ -22,6 +28,12 @@ Contributions are welcome! If you'd like to contribute to this project or report
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Visão Geral
 Bem-vindo ao Mosquito Slayer, um jogo divertido e desafiador criado com HTML, CSS, Bootstrap e JavaScript. Seu objetivo é eliminar o maior número possível de mosquitos dentro de um limite de tempo definido, evitando perder todas as três vidas. O jogo oferece três níveis de dificuldade diferentes para testar suas habilidades e foi projetado para demonstrar minhas habilidades em JavaScript e expandir meu conhecimento no desenvolvimento de jogos.
+<div style = "display: inline_block"></br>
+    <img align_item ="center" alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align_item ="center" alt = "HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align_item ="center" alt = "CSS3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+    <img align_item = "center" alt = "Bootstrap" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</div></br>
 
 ## Recursos
 Participe de uma emocionante ação de matar mosquitos.
